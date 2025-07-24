@@ -20,4 +20,4 @@
    - `else`: Print the final grade if everything was successful.
    - `finally`: Print a goodbye message like `"Thank you for using the Grade Calculator. Goodbye!"` no matter what.
 
-[Solution](https://gist.github.com/your-solution-link-here)
+[Solution](https://github.com/codebasics/py/blob/master/Basics/Exercise/15_exception_handling/exception_handling_solution.py)
