@@ -1,5 +1,4 @@
-sum: 14 | 6,8
-sum: 13 | 7,6
-sum: 10 | 2,8
-sum: 14 | 9,5
-sum: 15 | 9,6
+def sum(a,b):
+    return a+b
+n1, n2 = map(int, input("Enter the numbers: ").split())
+print("The sum is: ",sum(n1, n2))
